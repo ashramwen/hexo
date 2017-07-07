@@ -24,7 +24,7 @@ Elite Wealth Management
 聚财道,开启你的投资互联网,智能量化交易策略,自主化投资系统,开户流程简单快速,交易费用透明,支持中港美证券交易,追踪顶级对冲基金,追踪投资银行的投资组合
 {% endblockquote %}
 <br>
-This is a economic and social website with chatting system. People can post their own article and share to their friends.
+This is a financial and social website with chatting system. People can post their own article and share to their friends.
 Website also provides the real-time stock chart service.
-Built with AngularJS and WebSocket.
+Built with Angularjs and WebSocket.
 
